@@ -1,0 +1,1 @@
+native get_bot_id();
